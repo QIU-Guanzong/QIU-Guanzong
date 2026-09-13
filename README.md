@@ -7,7 +7,7 @@ I build focused software for reliable automation, data validation, and developer
 ## Selected projects
 
 - [CoProgrammer](https://github.com/QIU-Guanzong/CoProgrammer) — an open protocol and toolkit for structuring parallel AI coding workflows.
-- [Delivery Check](https://github.com/QIU-Guanzong/delivery-check) — offline CSV/JSON handoff checks; cloud runs are a separate option.
+- [Delivery Check](https://github.com/QIU-Guanzong/delivery-check) — offline CSV/JSON handoff checks; [run the hosted validator](https://apify.com/grayt/delivery-check).
 
 ## Merged contributions
 
